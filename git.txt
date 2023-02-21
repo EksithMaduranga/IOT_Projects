@@ -1,0 +1,8 @@
+git config --global --get user.name
+git init
+git remote add origin (Repo Link)
+git add .
+git commit -m "initial commit"
+git branch (branchName)
+git checkout (branchName)
+git push -u origin (branchName)
